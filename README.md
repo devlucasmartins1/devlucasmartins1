@@ -26,7 +26,7 @@ Here are some technologies I'm currently studying:
   <img width="100" height="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
-
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasdev7&show_icons=true&theme=radical)
 
   
  
