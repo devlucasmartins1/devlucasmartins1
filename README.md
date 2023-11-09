@@ -13,6 +13,7 @@ I believe in the power of education and that every day is a new challenge becaus
 <li>🔭 I’m currently working on saas type personal projects</li>
 <li>🌱 I’m currently learning design patterns</li>
 <li>💻I'm looking to collaborate with open source projects</li>  
+<li>🔎Meet me at www.lucasdev7.com</li>
 </ul>
 
 Here are some technologies I'm currently studying:
@@ -24,6 +25,8 @@ Here are some technologies I'm currently studying:
   <img width="100" height="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img width="100" height="130" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
+
+
 
   
  
