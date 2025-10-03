@@ -15,7 +15,7 @@ I believe in the power of education and that every day is a new challenge becaus
 <li>🔭 I’m currently working on saas type personal projects</li>
 <li>🌱 I’m currently learning design patterns</li>
 <li>💻I'm looking to collaborate with open source projects</li>  
-<li>🔎Meet me at www.lucasdev7.com</li>
+<li>🔎Meet me at www.devlucasmartins.com</li>
 </ul>
 
 ## Here are some of the skills I possess:
