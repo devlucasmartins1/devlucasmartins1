@@ -18,6 +18,17 @@ I believe in the power of education and that every day is a new challenge becaus
 <li>🔎Meet me at www.lucasdev7.com</li>
 </ul>
 
+Here are some of the skills I possess:
+Programming Languages: Java, Kotlin, Swift
+Frameworks and Libraries: Android SDK, Retrofit, Hilt, Koin, iOS Development
+Architectures: MVP, MVVM, MVI, MVVM-C
+Database: SQLite, Room
+Code Versioning: Git
+Development Tools: Android Studio, Gradle, Xcode
+Testing: JUnit5 and JUnit4
+Clean Architecture
+Compose
+
 Here are some technologies I'm currently studying:
 
 <div>
@@ -32,6 +43,4 @@ Here are some technologies I'm currently studying:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdev7&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-  
- 
-  
+
