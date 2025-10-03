@@ -7,9 +7,11 @@
 -->
 
 ## Hello World! 
-My name is Lucas Martins, I am web developer passioned for technologies and study by my self. I have already taken several online web and 
-mobile programming courses. I consider myself a beginner in the world of programming, but I intend to reach greater heights. 
-I believe in the power of education and that every day is a new challenge because there is always something new to learn.
+I'm Lucas, a highly motivated and experienced web developer with four years of dedicated experience in web development. I have great skills in designing, developing, and testing web applications, as well as in-depth knowledge of relevant programming languages, libraries, and frameworks.
+
+My passion for problem-solving drives me to find efficient solutions in web development. I'm recognized for my self-management skills and commitment to delivering exceptional results.
+
+In addition to my work as a developer, I'm also a content creator at @devlucasmartins10, where I share technology-related knowledge. I believe that sharing experiences and learnings is a valuable way to strengthen the technology community.
 
 <ul>
 <li>🔭 I’m currently working on saas type personal projects</li>
