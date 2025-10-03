@@ -48,6 +48,6 @@ Here are some technologies I'm currently studying:
 
 
 ##My social networks<br><br>
-[ ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) ](https://www.youtube.com/@DevLucasMartins)<br>
+[ ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) ](https://www.youtube.com/@DevLucasMartins)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/devlucasmartins1/)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ](httos://www.instagram.com/dev_lucasmartins)
