@@ -46,4 +46,6 @@ Here are some technologies I'm currently studying:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdev7&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
+My social networks
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 
