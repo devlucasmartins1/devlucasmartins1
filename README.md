@@ -1,4 +1,4 @@
-<img width="900" height="300" src="https://drive.google.com/file/d/1fr-aSvQnXO8lnqdwN5LfdsF5JTbEM9fm/view?usp=sharing" />
+<img width="900" height="300" src="capa linkedin.png" />
 
 ### Hi there 👋
 
