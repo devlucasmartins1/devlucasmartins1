@@ -1,12 +1,10 @@
 <img width="900" height="300" src="capa linkedin.png" />
 
-### Hi there 👋
-
 <!--
 **Lucasdev7/lucasdev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## Hello World! 
+## Hello World! �
 I'm Lucas, a highly motivated and experienced web developer with four years of dedicated experience in web development. I have great skills in designing, developing, and testing web applications, as well as in-depth knowledge of relevant programming languages, libraries, and frameworks.
 
 My passion for problem-solving drives me to find efficient solutions in web development. I'm recognized for my self-management skills and commitment to delivering exceptional results.
