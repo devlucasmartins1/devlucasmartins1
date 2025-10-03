@@ -35,7 +35,7 @@ I believe in the power of education and that every day is a new challenge becaus
 Here are some technologies I'm currently studying:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
  
 
 </div>
