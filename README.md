@@ -32,10 +32,9 @@ I believe in the power of education and that every day is a new challenge becaus
 <li>Responsive Design and UI/UX Principles</li>
 </ul>
 
-Here are some technologies I'm currently studying:
+Here are some technologies I'm currently studying:<br>
 
 <div>
-  <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
   <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
@@ -46,10 +45,9 @@ Here are some technologies I'm currently studying:
   <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
   <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
   <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />  
-  <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  
+  <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />  
 
-</div>
+</div><br><br>
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasdev7&show_icons=true&theme=radical)
 
