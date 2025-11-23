@@ -1,4 +1,4 @@
-<img width="900" height="300" src="./capa-linkedin2.png" />
+<img width="900" height="300" src="capa.jpg" />
 
 <!--
 **Lucasdev7/lucasdev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
