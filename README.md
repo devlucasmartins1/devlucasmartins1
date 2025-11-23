@@ -1,4 +1,5 @@
-<img width="900" height="300" src="capa.jpg" />
+<img width="900" height="300" src="capa2.png" />
+![Capa do perfil](https://raw.githubusercontent.com/devlucasmartins1/devlucasmartins1/main/capa2.png)
 
 <!--
 **Lucasdev7/lucasdev7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
