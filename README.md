@@ -1,4 +1,4 @@
-<img width="900" height="300" src="capa2.png" />
+<img width="900" height="300" src="header.png" />
 
 
 <!--
