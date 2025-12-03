@@ -50,7 +50,7 @@ Here are some technologies I'm currently studying:<br>
 
 </div><br><br>
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=devlucasmartins1/devlucasmartins1&show_icons=true&theme=radical)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=devlucasmartins1&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasmartins1&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
