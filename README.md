@@ -27,7 +27,7 @@ Além do meu trabalho como desenvolvedor, também sou criador de conteúdo na @d
 <li>Banco de dados: MySQL, MariaDB, MongoDB</li>
 <li>Versionamento de código: Git</li>
 <li>Ferramentas de Desenvolvimento: VSCode e PHPStorm</li>
-<li>Teste: Existe e PHPUnit</li>
+<li>Teste: Jest e PHPUnit</li>
 <li>Arquitetura Limpa</li>
 <li>Composer</li>
 <li>Princípios de design responsivo e UI/UX</li>
