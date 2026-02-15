@@ -6,34 +6,34 @@
 -->
 
 ## Hello World!
-I'm Lucas, a highly motivated and experienced web developer with four years of dedicated experience in web development. I have great skills in designing, developing, and testing web applications, as well as in-depth knowledge of relevant programming languages, libraries, and frameworks.
+Sou Lucas, um desenvolvedor web altamente motivado e experiente, com quatro anos de experiência dedicada em desenvolvimento web. Tenho grandes habilidades em projetar, desenvolver e testar aplicações web, bem como profundo conhecimento de linguagens de programação, bibliotecas e frameworks relevantes.
 
-My passion for problem-solving drives me to find efficient solutions in web development. I'm recognized for my self-management skills and commitment to delivering exceptional results.
+Minha paixão pela resolução de problemas me leva a encontrar soluções eficientes em desenvolvimento web. Sou reconhecido por minhas habilidades de autogestão e comprometimento em entregar resultados excepcionais.
 
-In addition to my work as a developer, I'm also a content creator at @devlucasmartins10, where I share technology-related knowledge. I believe that sharing experiences and learnings is a valuable way to strengthen the technology community.
+Além do meu trabalho como desenvolvedor, também sou criador de conteúdo na @devlucasmartins10, onde compartilho conhecimentos relacionados à tecnologia. Acredito que compartilhar experiências e aprendizados é uma forma valiosa de fortalecer a comunidade tecnológica.
 
 <ul>
-<li>🔭 I’m currently working on saas type personal projects</li>
-<li>🌱 I’m currently learning design patterns</li>
-<li>💻I'm looking to collaborate with open source projects</li>  
-<li>🔎Meet me at www.devlucasmartins.com</li>
+<li>🔭 Atualmente estou trabalhando em projetos pessoais do tipo saas</li>
+<li>🌱 Atualmente estou aprendendo padrões de design</li>
+<li>💻Estou procurando colaborar com projetos de código aberto</li>  
+<li>🔎Me encontre em www.devlucasmartins.com</li>
 </ul>
 
-## Here are some of the skills I possess:
+## Aqui estão algumas das habilidades que possuo:
 <ul>
-<li>Programming Languages: Javascript, PHP, SQL</li>
-<li>Frameworks and Libraries: NextJS e Laravel</li>
-<li>Architectures: MVC, MVVM</li>
-<li>Database: MySQL, MariaDB, MongoDB</li>
-<li>Code Versioning: Git</li>
-<li>Development Tools: VSCode e PHPStorm</li>
-<li>Testing: Jest e PHPUnit</li>
-<li>Clean Architecture</li>
+<li>Linguagens de programação: Javascript, PHP, SQL</li>
+<li>Frameworks e Bibliotecas: NextJS e Laravel</li>
+<li>Arquiteturas: MVC, MVVM</li>
+<li>Banco de dados: MySQL, MariaDB, MongoDB</li>
+<li>Versionamento de código: Git</li>
+<li>Ferramentas de Desenvolvimento: VSCode e PHPStorm</li>
+<li>Teste: Existe e PHPUnit</li>
+<li>Arquitetura Limpa</li>
 <li>Composer</li>
-<li>Responsive Design and UI/UX Principles</li>
+<li>Princípios de design responsivo e UI/UX</li>
 </ul>
 
-Here are some technologies I'm currently studying:<br>
+Aqui estão algumas tecnologias que estou estudando atualmente:<br>
 
 <div>
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
